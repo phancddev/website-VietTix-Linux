@@ -1,0 +1,130 @@
+.body {
+    background-color: #D8DEE9;
+    font-family: 'Open Sans', sans-serif !important;
+}
+
+/* Navbar */
+
+.navbar {
+    background-color: #2E3440 !important;
+    margin: 12px;
+    border-radius: 5px;
+}
+
+.nav-link {
+    color: #FFFFFF !important;
+    margin-left: 0.5em;
+    margin-right: 0.5em;
+}
+
+.nav-link:hover {
+    color: #2E3440 !important;
+    background-color: #D8DEE9;
+    border-radius: 5px;
+}
+
+.navbar-brand {
+    margin-left: 1em;
+}
+
+.ms-auto {
+    margin-right: 1em;
+}
+
+
+.text_head {
+    font-size: 5em;
+    padding: 20%;
+    padding-bottom: 20%;
+    color: white;
+    position: relative;
+    text-align: center;
+    font-weight: 500;
+}
+
+.text_head2 {
+    font-weight: normal;
+    font-size: 0.5em;
+}
+
+.btn-outline-primary {
+    border-color: #E5E9F0 !important;
+    color: #E5E9F0;
+    
+  box-shadow: 0px 8px 15px rgba(0, 0, 0, 0.1) !important;
+}
+
+.btn-outline-primary:hover {
+    background-color: #ECEFF4;
+    border-color: #E5E9F0 !important;
+    color: #2E3440;
+}
+
+/* Feature */
+
+.feature {
+    text-transform: uppercase;
+    letter-spacing: 6px;
+    color: #2E3440;
+    
+    padding-top: 1em;
+    padding-bottom: 1.4em;
+}
+
+
+.features .feature-box {
+    padding: 30px 20px;
+    box-shadow: 0px 0 30px rgba(1, 41, 112, 0.08);
+    transition: 0.3s;
+    border-radius: 12px;
+    height: 100%;
+}
+
+.features .feature-box h3 {
+    font-size: 18px;
+    color: #2E3440;
+    font-weight: 700;
+    margin: 0;
+}
+
+.features .feature-box i {
+    line-height: 0;
+    background: #D8DEE9;
+    padding: 4px;
+    margin-right: 10px;
+    font-size: 24px;
+    border-radius: 3px;
+    transition: 0.3s;
+}
+
+.features .feature-box:hover i {
+    background: #2E3440;
+    color: #ECEFF4;
+}
+
+.features img {
+    border-radius: 8px;
+}
+
+/* footer */
+.footer {
+    background-color: #2E3440 !important;
+    margin-top: 12px;
+    margin-bottom: 12px;
+    border-radius: 5px;
+    padding: 1em;
+    color: #ECEFF4;
+}
+
+.footer a {
+    color: #ECEFF4;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    color: #D8DEE9;
+}
+
+.footer a:clicked {
+    color: #D8DEE9;
+}
