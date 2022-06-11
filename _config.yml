@@ -12,13 +12,18 @@ title: ViệtTíx Linux
 description: "Hệ điều hành được làm bởi người Việt, cho người Việt."
 baseurl: "/"
 url: "https://viettixlinux.pages.dev/"
+lang: vi-VN
+repository_url: "https://github.com/viettixlinux"
+download_url: "/download.html"
+logo_path: "/img/logo.svg"
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
   - jekyll-remote-theme
 
-lang: vi-VN
+include:
+  - img
 
 # Exclude from processing.
 # The following items will not be processed, by default.
