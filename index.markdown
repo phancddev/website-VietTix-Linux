@@ -1,6 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: default
 ---
+
+### Trang web này tồn tại cho có thôi, do ViệtTíx Linux chưa làm xong nên chưa rảnh mà viết website, mọi người thông cảm :))
+
+[Tải về](/download.html)
