@@ -1,4 +1,4 @@
-# [VNux-website](https://vnuxlinux.pages.dev/)
-![VNux logo](https://gitlab.com/VNux/VNux-Artwork/-/raw/main/logo/VNux-logo-text.png?inline=false)
+# [website](https://viettixlinux.pages.dev/)
+![VNux logo](https://github.com/viettix-packages/desktop-base/blob/master/viettix-logos/logo.svg)
 
-Mã nguồn trang web của VNux GNU/Linux
+Mã nguồn trang web của ViệtTíx Linux
