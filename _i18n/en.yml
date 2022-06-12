@@ -1,0 +1,9 @@
+header:
+  title: "VietTix Linux"
+  description: "Operating System made for the Vietnamese, by Vietnamese"
+  homepage-button: "Home"
+  download-button: "Download"
+  github-button: "View source code on GitHub"
+
+footer:
+  text: "idk what to write lol"

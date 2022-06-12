@@ -1,0 +1,9 @@
+header:
+  title: "ViệtTíx Linux"
+  description: "Hệ điều hành được làm bởi người Việt, cho người Việt."
+  homepage-button: "Trang chủ"
+  download-button: "Tải về"
+  github-button: "Xem mã nguồn trên GitHub"
+
+footer:
+  text: "Đây là footer, không biết ghi gì :v."

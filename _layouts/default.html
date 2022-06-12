@@ -17,11 +17,11 @@
 
     <header class="page-header" role="banner">
       <img src="{{ site.logo_path }}" class="project-logo" alt="VietTix Linux Logo"></class>
-      <h1 class="project-name">{{ site.title }}</h1>
-      <h2 class="project-tagline">{{ site.description }}</h2>
-      <a href="{{ site.url }}" class="btn">Trang chủ</a>
-      <a href="{{ site.download_url }}" class="btn">Tải về</a>
-      <a href="{{ site.repository_url }}" class="btn">Xem mã nguồn trên GitHub</a>
+      <h1 class="project-name">{% translate header.title %}</h1>
+      <h2 class="project-tagline">{% translate header.description %}</h2>
+      <a href="{{ site.url }}" class="btn">{% translate header.homepage-button %}</a>
+      <a href="{{ site.download_url }}" class="btn">{% translate header.download-button %}</a>
+      <a href="{{ site.repository_url }}" class="btn">{% translate header.github-button %}</a>
     </header>
 
     <main id="content" class="main-content" role="main">
