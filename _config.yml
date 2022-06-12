@@ -2,11 +2,6 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 #
-# Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 
 baseurl: "/"
 url: "https://viettixlinux.pages.dev/"
@@ -16,6 +11,9 @@ download_url: "/download.html"
 logo_path: "/assets/img/logo.svg"
 languages: ["vi", "en"]
 exclude_from_localizations: ["assets", "favicon.ico"]
+namespace:     vi
+permalink:      /vi/
+permalink_en:   /en/
 
 # Build settings
 remote_theme: pages-themes/cayman@v0.2.0
