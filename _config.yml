@@ -3,6 +3,8 @@
 # https://learnxinyminutes.com/docs/yaml/
 #
 
+title: ViệtTíx Linux
+description: "Hệ điều hành được làm bởi người Việt, cho người Việt."
 baseurl: "/"
 url: "https://viettixlinux.pages.dev/"
 lang: vi-VN
